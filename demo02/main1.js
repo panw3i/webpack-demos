@@ -1,1 +1,1 @@
-document.write('<h1>Hello World</h1>');
+随便写一点什么, webpack只会这个当做字符串的模块
